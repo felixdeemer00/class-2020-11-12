@@ -117,7 +117,7 @@ is overfitted to the initial dataset.
 
 ```{r}
 
-new_data <- tibble(treatment = "local", 
+new_obs <- tibble(treatment = "local", 
                    poverty_n)
 
 ```
